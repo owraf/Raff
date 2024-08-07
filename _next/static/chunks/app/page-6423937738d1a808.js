@@ -13,10 +13,10 @@
             var c = s(9268),
                 l = s(6006);
             let r = () => {
-                let [e, t] = (0, l.useState)("Coming Soon.");
+                let [e, t] = (0, l.useState)("Let's Connect!");
                 return (0, c.jsx)("h1", {
                     className: "p-8 text-center text-white font-bold text-3xl lg:text-5xl md:text-5xl",
-                    onClick: () => t("Test!"),
+                    onClick: () => t("Thank You"),
                     children: e
                 })
             };
@@ -30,7 +30,7 @@
                             className: " flex flex-col  justify-center items-center gap-6",
                             children: [(0, c.jsx)("div", {
                                 className: "text-white  text-center text-xs lg:text-base md:text-base font-bold bg-gray-900 rounded-2xl py-1.5 px-5",
-                                children: "Software Engineer & Product Designer"
+                                children: "Data Analyst"
                             }), (0, c.jsxs)("div", {
                                 className: "flex flex-col  items-center justify-center gap-3 ",
                                 children: [(0, c.jsxs)("div", {
@@ -40,16 +40,16 @@
                                         children: "Hi, I'm"
                                     }), (0, c.jsx)("div", {
                                         className: "text-black  text-5xl lg:text-7xl md:text-7xl text-center font-bold",
-                                        children: "Fadhil"
+                                        children: "Raffli"
                                     })]
                                 }), (0, c.jsx)("div", {
                                     className: "text-black  text-sm lg:text-base md:text-base px-8 text-center",
-                                    children: "Experienced in designing and building technology"
+                                    children: "Transform Numbers to Insight"
                                 })]
                             }), (0, c.jsxs)("div", {
                                 className: "flex   items-center gap-8 ",
                                 children: [(0, c.jsx)("a", {
-                                    href: "https://www.instagram.com/fadhilmufid",
+                                    href: "https://www.instagram.com/owraf",
                                     target: "_blank",
                                     children: (0, c.jsx)("div", {
                                         className: "w-8 h-8 hover:h-10 hover:w-10",
@@ -62,7 +62,7 @@
                                         })
                                     })
                                 }), (0, c.jsx)("a", {
-                                    href: "https://www.linkedin.com/in/fadhilmufid",
+                                    href: "https://www.linkedin.com/in/raffli",
                                     target: "_blank",
                                     children: (0, c.jsx)("div", {
                                         className: "w-8 h-8 hover:h-10 hover:w-10",
@@ -75,7 +75,7 @@
                                         })
                                     })
                                 }), (0, c.jsx)("a", {
-                                    href: "https://www.github.com/fadhilmufid",
+                                    href: "https://www.github.com/owraf",
                                     target: "_blank",
                                     children: (0, c.jsx)("div", {
                                         className: "w-8 h-8 hover:h-10 hover:w-10",
