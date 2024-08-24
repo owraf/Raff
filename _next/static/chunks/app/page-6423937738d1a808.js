@@ -30,7 +30,7 @@
                             className: " flex flex-col  justify-center items-center gap-6",
                             children: [(0, c.jsx)("div", {
                                 className: "text-white  text-center text-xs lg:text-base md:text-base font-bold bg-gray-900 rounded-2xl py-1.5 px-5",
-                                children: "Data Analyst"
+                                children: "Graphic Designer"
                             }), (0, c.jsxs)("div", {
                                 className: "flex flex-col  items-center justify-center gap-3 ",
                                 children: [(0, c.jsxs)("div", {
@@ -44,7 +44,8 @@
                                     })]
                                 }), (0, c.jsx)("div", {
                                     className: "text-black  text-sm lg:text-base md:text-base px-8 text-center",
-                                    children: "Transform Numbers to Insight"
+                                    // children: "Transform Numbers to Insight"                                     
+                                    children: "For every n problems there are n+1 solutions"                        
                                 })]
                             }), (0, c.jsxs)("div", {
                                 className: "flex   items-center gap-8 ",
